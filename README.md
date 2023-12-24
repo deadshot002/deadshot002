@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to deadshot002's Profile! 👋
 
-<!--
-**deadshot002/deadshot002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Lokesh kumar. Welcome to my GitHub profile, where I explore and contribute to various projects. Feel free to take a look around and explore what I've been working on.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [Personal Website/Blog](https://www.lokeshjangir.me/)
+- 📫 How to reach me: [your.email@example.com](mailto:your.lokeshkumar991100@gmail.com)
+- 😄 Pronouns: [he]
+
+## My Skills
+
+- 💻 Programming Languages: C and C++ ,python ,javascript ,HTML ,CSS ,React ,SQL , NodeJS ,Express
+- 🛠️ Technologies & Tools: Git , Github ,VSCode
+- 📁 Database: MongoDB
